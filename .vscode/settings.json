@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        ".env*": "dotenv",
+        "iostream": "cpp",
+        "initializer_list": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "codecvt": "cpp",
+        "string_view": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "numeric": "cpp",
+        "valarray": "cpp",
+        "regex": "cpp"
+    }
+}

@@ -3,7 +3,7 @@ using namespace std;
 
 void merge(vector<int> &arr, int low, int mid, int high)
 {
-    int right = mid + 1, left = low;
+    int left = low, right = mid + 1;
     vector<int> temp;
 
     while (left <= mid && right <= high)
